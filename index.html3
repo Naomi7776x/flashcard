@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+      <link rel="stylesheet" href="assets/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link
+ href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;
+0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" 
+rel="stylesheet">
+    <title>Flashcard</title>
+</head>
+<body>
+    <main>
+        <section id="container">
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>10 perguntas inúteis</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>1. Quantos corações polvos tem?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>Os polvos têm três corações. Dois deles, os corações branquiais, bombeiam
+                           o sangue para as brânquias, onde ele é oxigenado. O terceiro coração, um 
+                           coração central, então distribui o sangue oxigenado pelo corpo. E todos 
+                           eles vão se partir se você não gostar de frutos do mar.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>10 perguntas inúteis</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>2. As formigas dormem?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                    <p>Sim, as formigas dormem, embora de forma diferente dos humanos. Elas têm um 
+                       comportamento de sono semelhante ao de cochilos, com períodos de descanso mais
+                       curtos e frequentes durante o dia, que se somam a períodos de descanso mais 
+                       longos, como a rainha, que pode chegar a dormir cerca de 9 horas por dia, como
+                       no caso das formigas-de-fogo (Solenopsis invicta).  E ainda sim são mais produtivas
+                       que muita gente.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>10 perguntas mais inúteis</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>3. Como foi feito o som do codzilla?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                    <p>Design old school e que faz a terra tremer. O rugido do Godzilla é um dos efeitos sonoros
+                       mais reconhecidos da história da cinema. Criado em 1954, foi feito esfregando as cordas
+                       de um contrabaixo com uma luva revestida de resina.</p>
+                    </div>
+                </div>
+            </article>
+             <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>10 perguntas inúteis</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>4. Existe um museu do pão?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                    <p>Sim, na Alemanha, existem vários, mas o principal museu dedicado à história do pão é o Museum
+                       der Brotkultur, em Ulm. Este museu, fundado em 1955, conta com um vasto acervo de artefatos e
+                       exposições que exploram o pão desde o seu cultivo até as novas tecnologias de panificação. </p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>10 perguntas inúteis</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>5. Qual a verdadeira cor da coca-cola?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                    <p>A Coca-Cola original, sem adição de corantes, é naturalmente de cor incolor ou levemente verde-amarelada
+                       devido aos ingredientes naturais presentes na fórmula, especialmente o extrato de noz de cola e o caramelo.
+                       A cor marrom escura que vemos hoje é obtida através da adição de corantes artificiais, principalmente caramelo.</p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>10 perguntas inúteis</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>6. Qual o tamanho dos olhos de um avestruz?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                    <p>Os olhos da avestruz são significativamente maiores do que o seu cérebro, e isso se deve a uma combinação de fatores.
+                       A visão é crucial para a sobrevivência da avestruz, que precisa estar atenta aos predadores no seu habitat natural.
+                       Ter olhos grandes proporciona uma visão de longo alcance e uma ampla percepção do ambiente, ajudando a detectar ameaças
+                       rapidamente. Além disso, os avestruzes têm um cérebro relativamente pequeno, o que é compensado por outros órgãos e
+                       estruturas que facilitam a sua adaptação ao ambiente. </p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>10 perguntas inúteis</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>7. Há quanto tempo os tubarões existem?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                    <p>Os tubarões existiam muito antes das árvores. As evidências fósseis indicam que os tubarões
+                       existem há cerca de 450 milhões de anos, enquanto as árvores mais antigas surgiram há cerca
+                       de 350 milhões de anos. </p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>10 perguntas inúteis</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>8. O mel não estraga?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                    <p>O mel pode ser considerado um alimento que não estraga em condições normais de armazenamento.
+                       A alta concentração de açúcar e baixa quantidade de água no mel impedem o crescimento de bactérias
+                       e fungos, que são responsáveis pela deterioração de outros alimentos. </p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>10 perguntas inúteis</h3>
+                    <div class="cartao__conteudo__pergunta">
+                    <p>9. Qual foi a última letra adicionada ao alfabeto?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                    <p>A última letra a ser adicionada ao alfabeto latino foi a letra J. A história conta que o "J" era
+                       inicialmente uma forma decorativa do "I", um adorno tipográfico. Ele foi gradualmente reconhecido
+                       como uma letra independente no século XIX. </p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>10 perguntas inúteis</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>Andar na chuva molha menos que correr?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                    <p>Correr, na verdade, pode molhar menos do que andar na chuva, dependendo de alguns fatores. Quando
+                       se corre, o tempo de exposição à chuva é menor, o que pode compensar o fato de se "encontrar" com
+                       mais gotas de chuva por conta da velocidade. No entanto, se a chuva estiver forte e inclinada, andar
+                       pode ser menos molhado. </p>
+                    </div>
+                </div>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>Projeto desenvolvido por Naomi Alyha</p>
+    </footer>
+</body>
+</html>
