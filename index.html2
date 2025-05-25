@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+    <title>Flashcard</title>
+</head>
+<body>
+    <main>
+        <section id="container">
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Geografia</h3>
+                     <br>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>1. O rio Congo cruza a linha do equador quantas vezes?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                        <p>O rio Congo é um rio africano que, como o nome implica, possui uma
+                           trajetória que o leva a cruzar a linha do equador não uma, mas duas vezes. </p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>10 curiosidades inúteis</h3>
+                    <br>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>2. Vacas realmente não conseguem descer escadas?</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                    <p>Sim, é verdade, vacas têm dificuldade em descer escadas devido à sua
+                       anatomia e forma de se locomover. </p>
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>10 curiosidades mais inúteis</h3>
+                    <br>
+                    <div class="cartao__conteudo__pergunta">
+                        <p>O maior planeta do universo é o que contém o maior número de espécies</p>
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                    <p>A Floresta Amazônica, que se estende por vários países, é a maior floresta
+                         equatorial do mundo, abrigando cerca de 10% da biodiversidade global. </p>
+                    </div>
+                </div>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>Projeto desenvolvido por Naomi</p>
+    </footer>
+</body>
+</html>
